@@ -1,7 +1,7 @@
 {"data": 
   {
-    "status": false,
-    "severity": "high",
-    "updateUrl": "https://www.sagarvd.me"
+    "status": true,
+    "severity": "critical",
+    "updateUrl": "https://dl.sagarvd.me/apps/was/WhatsApp-to-Unsaved-Numbers-arm64-v8a-release.apk"
   }
 }
