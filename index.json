@@ -1,6 +1,6 @@
 {"data": 
   {
-    "status": true,
+    "status": false,
     "severity": "critical",
     "updateUrl": "https://dl.sagarvd.me/apps/was/Chat-with-Unsaved-Nunbers-release.apk",
     "version": "1.0.2"
